@@ -1,16 +1,74 @@
-## Hi there 👋
+# Hi, I'm Siva Prasad Palagiri 👋
 
-<!--
-**Siva-Prasad-Palagiri/Siva-Prasad-Palagiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## DevOps & Cloud Engineer | AWS | Linux | CI/CD | Docker | Kubernetes
 
-Here are some ideas to get you started:
+DevOps & Cloud Engineer based in Dubai with hands-on experience in AWS infrastructure, Linux systems, CI/CD automation, cloud deployments, and production environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently pursuing an MSc in Data Science & AI at Middlesex University Dubai while building deeper expertise in:
+
+- Cloud Infrastructure
+- Kubernetes & Container Orchestration
+- Terraform & Infrastructure as Code
+- AI/ML Deployment
+- Observability & Monitoring
+- Platform Engineering
+- AI Infrastructure & MLOps
+
+---
+
+## Tech Stack
+
+### Cloud & Infrastructure
+- AWS
+- Linux
+- Nginx
+- Cloudflare
+- Route53
+- EC2
+- RDS
+- S3
+- IAM
+
+### DevOps & Automation
+- Jenkins
+- GitHub Actions
+- Docker
+- Kubernetes
+- Terraform
+- Bash Scripting
+
+### Monitoring & Observability
+- Prometheus
+- Grafana
+- Loki
+
+### Programming & Data
+- Python
+- FastAPI
+- SQL
+
+---
+
+## Current Focus
+
+- Building production-grade cloud projects
+- Building cloud-native infrastructure skills
+- Deploying AI/ML applications
+- Improving infrastructure automation
+- Advancing toward AI Infrastructure Engineering
+
+---
+
+## Featured Projects (In Progress)
+
+- ML Model Deployment using FastAPI & Docker
+- AWS Infrastructure Automation with Terraform
+- Kubernetes Application Deployment
+- Observability Stack using Prometheus & Grafana
+
+---
+
+## Connect With Me
+
+- LinkedIn: www.linkedin.com/in/sivaprasad-palagiri
+- Location: Dubai, UAE
