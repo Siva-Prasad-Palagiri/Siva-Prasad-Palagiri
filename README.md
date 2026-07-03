@@ -104,15 +104,15 @@ I enjoy building cloud platforms that are secure, scalable, observable, and easy
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Siva-Prasad-Palagiri&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Siva-Prasad-Palagiri&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800" alt="Siva Prasad GitHub Stats" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siva-Prasad-Palagiri&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siva-Prasad-Palagiri&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800" alt="Siva Prasad Top Languages" />
 
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Siva-Prasad-Palagiri&theme=github-dark&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Siva-Prasad-Palagiri&theme=github-dark-blue&hide_border=true" alt="Siva Prasad GitHub Streak" />
 
 </p>
 
