@@ -40,7 +40,7 @@ I enjoy building cloud platforms that are secure, scalable, observable, and easy
 
 | Project | Description |
 |---------|-------------|
-| ⭐ **Enterprise Platform Engineering Case Study** | Production AWS Platform Engineering portfolio demonstrating architecture, CI/CD, networking, monitoring, security, Linux administration, and production operations. |
+| ⭐ **[Enterprise Platform Engineering Case Study](https://github.com/Siva-Prasad-Palagiri/enterprise-platform-engineering-case-study)** | Production AWS Platform Engineering portfolio demonstrating architecture, CI/CD, networking, monitoring, security, Linux administration, and production operations. |
 | 🌐 **CloudOps Velocity** | Founder project delivering Cloud Engineering, DevOps, Platform Engineering, and AI Infrastructure solutions. |
 | ☸️ **Kubernetes Platform** *(Coming Soon)* | Production-ready Kubernetes platform with Helm, Ingress, monitoring, RBAC, and GitOps. |
 | 🏗 **Terraform AWS Infrastructure** *(Coming Soon)* | Infrastructure as Code project provisioning production AWS environments using Terraform. |
@@ -153,7 +153,7 @@ I'm currently investing my time in mastering:
 
 🎓 **MSc Data Science & Artificial Intelligence**
 
-Middlesex University Dubai
+Middlesex University - Dubai
 
 2026 – Present
 
@@ -161,9 +161,7 @@ Middlesex University Dubai
 
 🎓 **Bachelor of Science - Aircraft Maintenance Engineering**
 
-Singhania University
-
-India
+Singhania University - India
 
 ---
 
