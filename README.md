@@ -12,7 +12,7 @@ Hi 👋 I'm <b>Siva Prasad Palagiri</b>
 
 <h3 align="center">
 
-Cloud Engineer • DevOps Engineer • Platform Engineer
+Platform Engineer • Cloud Engineer • DevOps Engineer
 
 </h3>
 
