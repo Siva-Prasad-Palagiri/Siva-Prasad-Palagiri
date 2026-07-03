@@ -42,9 +42,9 @@ I enjoy building cloud platforms that are secure, scalable, observable, and easy
 |---------|-------------|
 | ⭐ **[Enterprise Platform Engineering Case Study](https://github.com/Siva-Prasad-Palagiri/enterprise-platform-engineering-case-study)** | Production AWS Platform Engineering portfolio demonstrating architecture, CI/CD, networking, monitoring, security, Linux administration, and production operations. |
 | 🌐 **CloudOps Velocity** | Founder project delivering Cloud Engineering, DevOps, Platform Engineering, and AI Infrastructure solutions. |
-| ☸️ **Kubernetes Platform** *(Coming Soon)* | Production-ready Kubernetes platform with Helm, Ingress, monitoring, RBAC, and GitOps. |
-| 🏗 **Terraform AWS Infrastructure** *(Coming Soon)* | Infrastructure as Code project provisioning production AWS environments using Terraform. |
-| 🤖 **AI Infrastructure Platform** *(Coming Soon)* | Deploying AI models on Kubernetes with scalable inference infrastructure and observability. |
+| ☸️ **Kubernetes Platform** *(Currently in Development)* | Production-ready Kubernetes platform with Helm, Ingress, monitoring, RBAC, and GitOps. |
+| 🏗 **Terraform AWS Infrastructure** *(Currently in Development)* | Infrastructure as Code project provisioning production AWS environments using Terraform. |
+| 🤖 **AI Infrastructure Platform** *(Currently in Development)* | Deploying AI models on Kubernetes with scalable inference infrastructure and observability. |
 
 ---
 
