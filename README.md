@@ -100,21 +100,37 @@ I enjoy building cloud platforms that are secure, scalable, observable, and easy
 
 ---
 
-# 📈 GitHub Statistics
+# 🚀 Engineering Focus
 
-<p align="center">
+✔ Production AWS Platform Engineering
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Siva-Prasad-Palagiri&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+✔ Cloud Architecture
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siva-Prasad-Palagiri&layout=compact&theme=tokyonight&hide_border=true" />
+✔ Platform Engineering
 
-</p>
+✔ DevOps Automation
 
-<p align="center">
+✔ Kubernetes
 
-<img src="https://streak-stats.demolab.com?user=Siva-Prasad-Palagiri&theme=tokyonight&hide_border=true" />
+✔ AI Infrastructure
 
-</p>
+✔ Infrastructure as Code
+
+✔ MLOps
+
+✔ Cloud Native Engineering
+
+---
+# 🗺️ 2026 Engineering Roadmap
+
+- ✅ AWS Platform Engineering
+- ✅ Production DevOps
+- 🔄 Kubernetes
+- 🔄 Terraform
+- 🔄 GitOps
+- 🔄 AI Infrastructure
+- 🔄 MLOps
+- 🔄 Distributed Systems
 
 ---
 
@@ -143,7 +159,9 @@ Middlesex University Dubai
 
 ---
 
-🎓 **Bachelor of Computer Science**
+🎓 **Bachelor of Science - Aircraft Maintenance Engineering**
+
+Singhania University
 
 India
 
